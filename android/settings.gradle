@@ -1,0 +1,3 @@
+rootProject.name = 'mach2'
+
+include ':app'
